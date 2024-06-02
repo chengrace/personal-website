@@ -14,7 +14,10 @@
     "@fontsource/roboto": "^5.0.13",
     "@mui/icons-material": "^5.15.19",
     "@mui/material": "^5.15.19",
+    "@nextui-org/react": "^2.4.1",
+    "framer-motion": "^11.2.10",
     "next": "14.2.3",
+    "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18"
   },
